@@ -6,12 +6,12 @@ A grammar example file has been provided to play with.
 <br>
 Note: project requires *java* to be installed.
 
-# Usage
+## Usage
 ```
 % java Main.java
 ```
 
-# Execution example
+## Execution example
 ```
 ❯ java Main.java
 Give file name:
@@ -25,7 +25,5 @@ Enter a word:
 HOORAY!! The word can be produced by the specified Grammar.
 ```
 
-<br>
-References:
-<br>
+## References
 [1] https://en.wikipedia.org/wiki/Depth-first_search
